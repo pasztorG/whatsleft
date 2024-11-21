@@ -1,0 +1,3 @@
+[submodule "whatsleft-frontend"]
+	path = whatsleft-frontend
+	url = https://github.com/pasztorG/whatsleft-frontend.git
