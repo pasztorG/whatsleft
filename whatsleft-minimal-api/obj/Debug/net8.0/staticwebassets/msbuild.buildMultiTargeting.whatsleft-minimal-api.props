@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\whatsleft-minimal-api.props" />
+</Project>
